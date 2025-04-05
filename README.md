@@ -1,6 +1,6 @@
 source : [here](https://youtu.be/djR1Q_bVHok?si=elUGv3HBHtvjlP_i)
 
-## What ae links?
+## What ar links?
 
 A connection between a file name and actual data on the disk like it's a shortcut.
 
